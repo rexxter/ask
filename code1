@@ -1,0 +1,10 @@
+#include<stdio.h>
+using namespace std;
+int main()
+{
+ printf("what you want to ask");
+ char q[100];
+ printf("i dont know the answer");
+ return 0;
+ }
+ 
